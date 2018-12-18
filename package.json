@@ -1,11 +1,12 @@
 {
   "name": "styles-lyb",
   "version": "0.1.0",
-  "private": true,
+  "tags": "personal-styles styled-components css-lib",
   "dependencies": {
-    "react": "^16.6.1",
-    "react-dom": "^16.6.1",
-    "react-scripts": "2.1.1"
+    "react": "^v16.7.0-alpha",
+    "react-dom": "^v16.7.0-alpha",
+    "react-scripts": "2.1.1",
+    "styled-components": "^4.0.3"
   },
   "scripts": {
     "start": "react-scripts start",
